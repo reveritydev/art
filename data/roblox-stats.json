@@ -57337,5 +57337,77 @@
     "playing": 726,
     "favorites": 340666,
     "timestamp": "2026-09-24T20:58:56.879Z"
+  },
+  {
+    "name": "Heroes Battlegrounds",
+    "placeId": "13076380114",
+    "universeId": "4568630521",
+    "visits": 1738861299,
+    "playing": 5710,
+    "favorites": 1613643,
+    "timestamp": "2026-09-24T21:19:38.002Z"
+  },
+  {
+    "name": "Evade",
+    "placeId": "9872472334",
+    "universeId": "3647333358",
+    "visits": 9215952444,
+    "playing": 18953,
+    "favorites": 8258235,
+    "timestamp": "2026-09-24T21:19:38.002Z"
+  },
+  {
+    "name": "Ink Game",
+    "placeId": "99567941238278",
+    "universeId": "7008097940",
+    "visits": 3328646418,
+    "playing": 10854,
+    "favorites": 22301849,
+    "timestamp": "2026-09-24T21:19:38.002Z"
+  },
+  {
+    "name": "A Universal Time",
+    "placeId": "5130598377",
+    "universeId": "1782832995",
+    "visits": 991539310,
+    "playing": 1132,
+    "favorites": 1415632,
+    "timestamp": "2026-09-24T21:19:38.002Z"
+  },
+  {
+    "name": "Jump Showdown",
+    "placeId": "18519254033",
+    "universeId": "6275120808",
+    "visits": 268611337,
+    "playing": 1601,
+    "favorites": 385051,
+    "timestamp": "2026-09-24T21:19:38.002Z"
+  },
+  {
+    "name": "Azure Latch",
+    "placeId": "94647229517154",
+    "universeId": "6945584306",
+    "visits": 575304239,
+    "playing": 10627,
+    "favorites": 647070,
+    "timestamp": "2026-09-24T21:19:38.002Z"
+  },
+  {
+    "name": "Balanced Craftwars Overhaul",
+    "placeId": "8811271345",
+    "universeId": "3339078226",
+    "visits": 100074673,
+    "playing": 64,
+    "favorites": 68704,
+    "timestamp": "2026-09-24T21:19:38.002Z"
+  },
+  {
+    "name": "Redliner",
+    "placeId": "94987506187454",
+    "universeId": "7265339759",
+    "visits": 65022755,
+    "playing": 738,
+    "favorites": 340700,
+    "timestamp": "2026-09-24T21:19:38.002Z"
   }
 ]
