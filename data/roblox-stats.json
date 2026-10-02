@@ -91186,5 +91186,86 @@
     "playing": 63,
     "favorites": 68741,
     "timestamp": "2026-10-02T01:18:01.925Z"
+  },
+  {
+    "name": "Redliner",
+    "placeId": "94987506187454",
+    "universeId": "7265339759",
+    "visits": 66377066,
+    "playing": 956,
+    "favorites": 356977,
+    "timestamp": "2026-10-02T01:46:04.240Z"
+  },
+  {
+    "name": "Heroes Battlegrounds",
+    "placeId": "13076380114",
+    "universeId": "4568630521",
+    "visits": 1743855120,
+    "playing": 5716,
+    "favorites": 1618660,
+    "timestamp": "2026-10-02T01:46:04.240Z"
+  },
+  {
+    "name": "Evade",
+    "placeId": "9872472334",
+    "universeId": "3647333358",
+    "visits": 9245459395,
+    "playing": 23379,
+    "favorites": 8280311,
+    "timestamp": "2026-10-02T01:46:04.240Z"
+  },
+  {
+    "name": "Ink Game",
+    "placeId": "99567941238278",
+    "universeId": "7008097940",
+    "visits": 3337616591,
+    "playing": 9818,
+    "favorites": 22361029,
+    "timestamp": "2026-10-02T01:46:04.240Z"
+  },
+  {
+    "name": "A Universal Time",
+    "placeId": "5130598377",
+    "universeId": "1782832995",
+    "visits": 992044731,
+    "playing": 1204,
+    "favorites": 1415736,
+    "timestamp": "2026-10-02T01:46:04.240Z"
+  },
+  {
+    "name": "Jump Showdown",
+    "placeId": "18519254033",
+    "universeId": "6275120808",
+    "visits": 269625423,
+    "playing": 1626,
+    "favorites": 386374,
+    "timestamp": "2026-10-02T01:46:04.240Z"
+  },
+  {
+    "name": "Azure Latch",
+    "placeId": "94647229517154",
+    "universeId": "6945584306",
+    "visits": 581195914,
+    "playing": 12073,
+    "favorites": 650942,
+    "timestamp": "2026-10-02T01:46:04.240Z"
+  },
+  {
+    "name": "Bridger Western",
+    "placeId": "99449877692519",
+    "universeId": "8524572339",
+    "visits": 95166755,
+    "playing": 1892,
+    "favorites": 138151,
+    "timestamp": "2026-10-02T01:46:04.240Z"
+  },
+  {
+    "name": "Balanced Craftwars Overhaul",
+    "placeId": "8811271345",
+    "universeId": "3339078226",
+    "visits": 100118469,
+    "playing": 59,
+    "favorites": 68742,
+    "timestamp": "2026-10-02T01:46:04.240Z"
   }
 ]
